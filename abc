@@ -1,4 +1,4 @@
-/****************Vetor Represetation Of A General Sparse Matrix****************/
+/****************Vetor Represetation Of A General Sparse Matrix**************/
 /****************************Author: Aanchal Gupta*****************************/
 /******************************************************************************/
 #include<stdio.h>
